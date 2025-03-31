@@ -47,9 +47,8 @@ jobs:
       - name: Generate Cucumber Report
         run: |
           chmod +x openReport.sh
-          ./openReport.sh &
-          sleep 10
-          pkill -f cucumber
+          ./openReport.sh || true
+          echo "Cucumber Report generated at target/cucumber-html-reports/overview-features.html"
 
       - name: Upload Cucumber Report as Artifact
         uses: actions/upload-artifact@v4
