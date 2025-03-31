@@ -1,0 +1,227 @@
+16:20:07.596 INFO  AUTOMATION - beforeAll
+16:20:07.654 INFO  AUTOMATION - before: Login with valid credentials
+16:20:08.014 INFO  AUTOMATION - (POST) Login Request
+16:20:09.106 INFO  AUTOMATION - after: Login with valid credentials, status: PASSED
+16:20:09.115 INFO  AUTOMATION - before: Login with wrong credentials
+16:20:09.117 INFO  AUTOMATION - (POST) Login Request
+16:20:09.362 INFO  AUTOMATION - after: Login with wrong credentials, status: PASSED
+16:20:09.368 INFO  AUTOMATION - before: Login with wrong credentials
+16:20:09.370 INFO  AUTOMATION - (POST) Login Request
+16:20:09.605 INFO  AUTOMATION - after: Login with wrong credentials, status: PASSED
+16:20:09.610 INFO  AUTOMATION - before: Get all Posts
+16:20:09.612 INFO  AUTOMATION - (GET) Get all posts Request
+16:20:09.854 INFO  AUTOMATION - after: Get all Posts, status: PASSED
+16:20:09.857 INFO  AUTOMATION - before: Get single Post
+16:20:09.858 INFO  AUTOMATION - (GET) Get single post Request
+16:20:10.097 INFO  AUTOMATION - after: Get single Post, status: PASSED
+16:20:10.101 INFO  AUTOMATION - before: Delete single Post
+16:20:10.102 INFO  AUTOMATION - (Delete) Delete single post Request
+16:20:10.333 INFO  AUTOMATION - after: Delete single Post, status: PASSED
+16:20:10.335 INFO  AUTOMATION - before: Sort Posts
+16:20:10.336 INFO  AUTOMATION - (GET) Sort posts Request
+16:20:10.572 INFO  AUTOMATION - after: Sort Posts, status: PASSED
+16:20:10.575 INFO  AUTOMATION - before: Search Post
+16:20:10.578 INFO  AUTOMATION - (GET) Search posts Request
+16:20:10.813 INFO  AUTOMATION - after: Search Post, status: PASSED
+16:20:10.816 INFO  AUTOMATION - before: Create single Post
+16:20:10.878 INFO  AUTOMATION - (POST) Create post Request
+16:20:11.160 INFO  AUTOMATION - after: Create single Post, status: PASSED
+16:20:11.163 INFO  AUTOMATION - before: Update single Post
+16:20:11.170 INFO  AUTOMATION - (PUT) Update post Request
+16:20:11.407 INFO  AUTOMATION - after: Update single Post, status: PASSED
+16:20:11.409 INFO  AUTOMATION - before: Partial Update single Post
+16:20:11.416 INFO  AUTOMATION - (PATCH) Partial update post Request
+16:20:11.648 INFO  AUTOMATION - after: Partial Update single Post, status: PASSED
+16:20:11.652 INFO  AUTOMATION - before: Get all Posts
+16:20:11.653 INFO  AUTOMATION - (POST) Login Request
+16:20:12.255 INFO  AUTOMATION - (GET) Get all posts Request
+16:20:12.500 INFO  AUTOMATION - after: Get all Posts, status: PASSED
+16:20:12.504 INFO  AUTOMATION - before: Get single Post
+16:20:12.505 INFO  AUTOMATION - (POST) Login Request
+16:20:12.743 INFO  AUTOMATION - (GET) Get single post Request
+16:20:13.129 INFO  AUTOMATION - after: Get single Post, status: PASSED
+16:20:13.132 INFO  AUTOMATION - before: Delete single Post
+16:20:13.133 INFO  AUTOMATION - (POST) Login Request
+16:20:13.374 INFO  AUTOMATION - (Delete) Delete single post Request
+16:20:13.603 INFO  AUTOMATION - after: Delete single Post, status: PASSED
+16:20:13.605 INFO  AUTOMATION - before: Sort Posts
+16:20:13.606 INFO  AUTOMATION - (POST) Login Request
+16:20:13.841 INFO  AUTOMATION - (GET) Sort posts Request
+16:20:14.073 INFO  AUTOMATION - after: Sort Posts, status: PASSED
+16:20:14.075 INFO  AUTOMATION - before: Search Post
+16:20:14.077 INFO  AUTOMATION - (POST) Login Request
+16:20:14.310 INFO  AUTOMATION - (GET) Search posts Request
+16:20:14.547 INFO  AUTOMATION - after: Search Post, status: PASSED
+16:20:14.549 INFO  AUTOMATION - before: Create single Post
+16:20:14.550 INFO  AUTOMATION - (POST) Login Request
+16:20:14.787 INFO  AUTOMATION - (POST) Create post Request
+16:20:15.018 INFO  AUTOMATION - after: Create single Post, status: PASSED
+16:20:15.020 INFO  AUTOMATION - before: Update single Post
+16:20:15.020 INFO  AUTOMATION - (POST) Login Request
+16:20:15.262 INFO  AUTOMATION - (PUT) Update post Request
+16:20:15.490 INFO  AUTOMATION - after: Update single Post, status: PASSED
+16:20:15.492 INFO  AUTOMATION - before: Partial Update single Post
+16:20:15.493 INFO  AUTOMATION - (POST) Login Request
+16:20:15.735 INFO  AUTOMATION - (PATCH) Partial update post Request
+16:20:15.963 INFO  AUTOMATION - after: Partial Update single Post, status: PASSED
+16:20:15.965 INFO  AUTOMATION - before: Get invalid single Post
+16:20:15.966 INFO  AUTOMATION - (POST) Login Request
+16:20:16.197 INFO  AUTOMATION - (GET) Get single post Request
+16:20:16.426 INFO  AUTOMATION - after: Get invalid single Post, status: PASSED
+16:20:16.427 INFO  AUTOMATION - before: Delete invalid single Post
+16:20:16.428 INFO  AUTOMATION - (POST) Login Request
+16:20:16.660 INFO  AUTOMATION - (Delete) Delete single post Request
+16:20:16.888 INFO  AUTOMATION - after: Delete invalid single Post, status: PASSED
+16:20:16.890 INFO  AUTOMATION - before: Update invalid single Post
+16:20:16.890 INFO  AUTOMATION - (POST) Login Request
+16:20:17.126 INFO  AUTOMATION - (PUT) Update post Request
+16:20:17.355 INFO  AUTOMATION - after: Update invalid single Post, status: PASSED
+16:20:17.356 INFO  AUTOMATION - before: Partial Update invalid single Post
+16:20:17.357 INFO  AUTOMATION - (POST) Login Request
+16:20:17.596 INFO  AUTOMATION - (PATCH) Partial update post Request
+16:20:17.823 INFO  AUTOMATION - after: Partial Update invalid single Post, status: PASSED
+16:20:17.826 INFO  AUTOMATION - before: Get all Products
+16:20:17.827 INFO  AUTOMATION - (GET) Get all products Request
+16:20:18.050 INFO  AUTOMATION - after: Get all Products, status: PASSED
+16:20:18.052 INFO  AUTOMATION - before: Get single Product
+16:20:18.052 INFO  AUTOMATION - (GET) Get single product Request
+16:20:18.280 INFO  AUTOMATION - after: Get single Product, status: PASSED
+16:20:18.282 INFO  AUTOMATION - before: Delete single Product
+16:20:18.282 INFO  AUTOMATION - (Delete) Delete single product Request
+16:20:18.506 INFO  AUTOMATION - after: Delete single Product, status: PASSED
+16:20:18.508 INFO  AUTOMATION - before: Sort Products
+16:20:18.509 INFO  AUTOMATION - (GET) Sort products Request
+16:20:18.734 INFO  AUTOMATION - after: Sort Products, status: PASSED
+16:20:18.736 INFO  AUTOMATION - before: Search Product
+16:20:18.736 INFO  AUTOMATION - (GET) Search products Request
+16:20:18.963 INFO  AUTOMATION - after: Search Product, status: PASSED
+16:20:18.965 INFO  AUTOMATION - before: Create single Product
+16:20:18.975 INFO  AUTOMATION - (POST) Create product Request
+16:20:19.208 INFO  AUTOMATION - after: Create single Product, status: PASSED
+16:20:19.209 INFO  AUTOMATION - before: Update single Product
+16:20:19.217 INFO  AUTOMATION - (PUT) Update product Request
+16:20:19.444 INFO  AUTOMATION - after: Update single Product, status: PASSED
+16:20:19.445 INFO  AUTOMATION - before: Partial Update single Product
+16:20:19.449 INFO  AUTOMATION - (PATCH) Partial update product Request
+16:20:19.680 INFO  AUTOMATION - after: Partial Update single Product, status: PASSED
+16:20:19.682 INFO  AUTOMATION - before: Get all Products
+16:20:19.683 INFO  AUTOMATION - (POST) Login Request
+16:20:19.916 INFO  AUTOMATION - (GET) Get all products Request
+16:20:20.153 INFO  AUTOMATION - after: Get all Products, status: PASSED
+16:20:20.155 INFO  AUTOMATION - before: Get single Product
+16:20:20.156 INFO  AUTOMATION - (POST) Login Request
+16:20:20.389 INFO  AUTOMATION - (GET) Get single product Request
+16:20:20.633 INFO  AUTOMATION - after: Get single Product, status: PASSED
+16:20:20.635 INFO  AUTOMATION - before: Delete single Product
+16:20:20.636 INFO  AUTOMATION - (POST) Login Request
+16:20:20.865 INFO  AUTOMATION - (Delete) Delete single product Request
+16:20:21.094 INFO  AUTOMATION - after: Delete single Product, status: PASSED
+16:20:21.095 INFO  AUTOMATION - before: Sort Products
+16:20:21.096 INFO  AUTOMATION - (POST) Login Request
+16:20:21.332 INFO  AUTOMATION - (GET) Sort products Request
+16:20:21.571 INFO  AUTOMATION - after: Sort Products, status: PASSED
+16:20:21.573 INFO  AUTOMATION - before: Search Product
+16:20:21.573 INFO  AUTOMATION - (POST) Login Request
+16:20:21.807 INFO  AUTOMATION - (GET) Search products Request
+16:20:22.045 INFO  AUTOMATION - after: Search Product, status: PASSED
+16:20:22.047 INFO  AUTOMATION - before: Create single Product
+16:20:22.048 INFO  AUTOMATION - (POST) Login Request
+16:20:22.286 INFO  AUTOMATION - (POST) Create product Request
+16:20:22.511 INFO  AUTOMATION - after: Create single Product, status: PASSED
+16:20:22.513 INFO  AUTOMATION - before: Update single Product
+16:20:22.513 INFO  AUTOMATION - (POST) Login Request
+16:20:22.750 INFO  AUTOMATION - (PUT) Update product Request
+16:20:22.977 INFO  AUTOMATION - after: Update single Product, status: PASSED
+16:20:22.979 INFO  AUTOMATION - before: Partial Update single Product
+16:20:22.980 INFO  AUTOMATION - (POST) Login Request
+16:20:23.211 INFO  AUTOMATION - (PATCH) Partial update product Request
+16:20:23.438 INFO  AUTOMATION - after: Partial Update single Product, status: PASSED
+16:20:23.440 INFO  AUTOMATION - before: Get invalid single Product
+16:20:23.441 INFO  AUTOMATION - (POST) Login Request
+16:20:23.669 INFO  AUTOMATION - (GET) Get single product Request
+16:20:23.894 INFO  AUTOMATION - after: Get invalid single Product, status: PASSED
+16:20:23.896 INFO  AUTOMATION - before: Delete invalid single Product
+16:20:23.896 INFO  AUTOMATION - (POST) Login Request
+16:20:24.127 INFO  AUTOMATION - (Delete) Delete single product Request
+16:20:24.352 INFO  AUTOMATION - after: Delete invalid single Product, status: PASSED
+16:20:24.354 INFO  AUTOMATION - before: Update invalid single Product
+16:20:24.354 INFO  AUTOMATION - (POST) Login Request
+16:20:24.588 INFO  AUTOMATION - (PUT) Update product Request
+16:20:24.822 INFO  AUTOMATION - after: Update invalid single Product, status: PASSED
+16:20:24.823 INFO  AUTOMATION - before: Partial Update invalid single Product
+16:20:24.824 INFO  AUTOMATION - (POST) Login Request
+16:20:25.058 INFO  AUTOMATION - (PATCH) Partial update product Request
+16:20:25.286 INFO  AUTOMATION - after: Partial Update invalid single Product, status: PASSED
+16:20:25.288 INFO  AUTOMATION - before: Get all Users
+16:20:25.290 INFO  AUTOMATION - (GET) Get all users Request
+16:20:25.512 INFO  AUTOMATION - after: Get all Users, status: PASSED
+16:20:25.513 INFO  AUTOMATION - before: Get single User
+16:20:25.514 INFO  AUTOMATION - (GET) Get single user Request
+16:20:25.738 INFO  AUTOMATION - after: Get single User, status: PASSED
+16:20:25.740 INFO  AUTOMATION - before: Delete single User
+16:20:25.740 INFO  AUTOMATION - (Delete) Delete single user Request
+16:20:25.963 INFO  AUTOMATION - after: Delete single User, status: PASSED
+16:20:25.964 INFO  AUTOMATION - before: Sort Users
+16:20:25.965 INFO  AUTOMATION - (GET) Sort users Request
+16:20:26.189 INFO  AUTOMATION - after: Sort Users, status: PASSED
+16:20:26.191 INFO  AUTOMATION - before: Search User
+16:20:26.191 INFO  AUTOMATION - (GET) Filter users Request
+16:20:26.416 INFO  AUTOMATION - after: Search User, status: PASSED
+16:20:26.417 INFO  AUTOMATION - before: Create single User
+16:20:26.455 INFO  AUTOMATION - (POST) Create user Request
+16:20:26.688 INFO  AUTOMATION - after: Create single User, status: PASSED
+16:20:26.689 INFO  AUTOMATION - before: Update single User
+16:20:26.718 INFO  AUTOMATION - (PUT) Update user Request
+16:20:26.946 INFO  AUTOMATION - after: Update single User, status: PASSED
+16:20:26.948 INFO  AUTOMATION - before: Partial Update single User
+16:20:26.954 INFO  AUTOMATION - (PATCH) Partial update user Request
+16:20:27.180 INFO  AUTOMATION - after: Partial Update single User, status: PASSED
+16:20:27.182 INFO  AUTOMATION - before: Get invalid single User
+16:20:27.183 INFO  AUTOMATION - (POST) Login Request
+16:20:27.412 INFO  AUTOMATION - (GET) Get single user Request
+16:20:27.635 INFO  AUTOMATION - after: Get invalid single User, status: PASSED
+16:20:27.637 INFO  AUTOMATION - before: Delete invalid single User
+16:20:27.637 INFO  AUTOMATION - (POST) Login Request
+16:20:27.867 INFO  AUTOMATION - (Delete) Delete single user Request
+16:20:28.096 INFO  AUTOMATION - after: Delete invalid single User, status: PASSED
+16:20:28.097 INFO  AUTOMATION - before: Update invalid single User
+16:20:28.098 INFO  AUTOMATION - (POST) Login Request
+16:20:28.353 INFO  AUTOMATION - (PUT) Update user Request
+16:20:28.581 INFO  AUTOMATION - after: Update invalid single User, status: PASSED
+16:20:28.582 INFO  AUTOMATION - before: Partial Update invalid single User
+16:20:28.582 INFO  AUTOMATION - (POST) Login Request
+16:20:28.821 INFO  AUTOMATION - (PATCH) Partial update user Request
+16:20:29.053 INFO  AUTOMATION - after: Partial Update invalid single User, status: PASSED
+16:20:29.055 INFO  AUTOMATION - before: Get all Users
+16:20:29.055 INFO  AUTOMATION - (POST) Login Request
+16:20:29.286 INFO  AUTOMATION - (GET) Get all users Request
+16:20:29.519 INFO  AUTOMATION - after: Get all Users, status: PASSED
+16:20:29.520 INFO  AUTOMATION - before: Get single User
+16:20:29.521 INFO  AUTOMATION - (POST) Login Request
+16:20:29.751 INFO  AUTOMATION - (GET) Get single user Request
+16:20:29.986 INFO  AUTOMATION - after: Get single User, status: PASSED
+16:20:29.987 INFO  AUTOMATION - before: Delete single User
+16:20:29.988 INFO  AUTOMATION - (POST) Login Request
+16:20:30.217 INFO  AUTOMATION - (Delete) Delete single user Request
+16:20:30.443 INFO  AUTOMATION - after: Delete single User, status: PASSED
+16:20:30.444 INFO  AUTOMATION - before: Sort Users
+16:20:30.445 INFO  AUTOMATION - (POST) Login Request
+16:20:30.674 INFO  AUTOMATION - (GET) Sort users Request
+16:20:30.907 INFO  AUTOMATION - after: Sort Users, status: PASSED
+16:20:30.909 INFO  AUTOMATION - before: Filter User
+16:20:30.910 INFO  AUTOMATION - (POST) Login Request
+16:20:31.143 INFO  AUTOMATION - (GET) Filter users Request
+16:20:31.372 INFO  AUTOMATION - after: Filter User, status: PASSED
+16:20:31.373 INFO  AUTOMATION - before: Create single User
+16:20:31.374 INFO  AUTOMATION - (POST) Login Request
+16:20:31.630 INFO  AUTOMATION - (POST) Create user Request
+16:20:31.860 INFO  AUTOMATION - after: Create single User, status: PASSED
+16:20:31.861 INFO  AUTOMATION - before: Update single User
+16:20:31.861 INFO  AUTOMATION - (POST) Login Request
+16:20:32.111 INFO  AUTOMATION - (PUT) Update user Request
+16:20:32.339 INFO  AUTOMATION - after: Update single User, status: PASSED
+16:20:32.340 INFO  AUTOMATION - before: Partial Update single User
+16:20:32.340 INFO  AUTOMATION - (POST) Login Request
+16:20:32.575 INFO  AUTOMATION - (PATCH) Partial update user Request
+16:20:32.800 INFO  AUTOMATION - after: Partial Update single User, status: PASSED
+16:20:32.801 INFO  AUTOMATION - afterAll
